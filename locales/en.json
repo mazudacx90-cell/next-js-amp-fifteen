@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "back": "Back",
+    "noData": "No data available",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save"
+  },
+  "articles": {
+    "title": "Articles",
+    "list": "Article List",
+    "detail": "Article Detail",
+    "categories": "Categories",
+    "readMore": "Read More",
+    "author": "Author",
+    "publishedDate": "Published Date",
+    "category": "Category",
+    "noArticles": "No articles found",
+    "views": "Views",
+    "backToArticles": "Back to Articles"
+  },
+  "comments": {
+    "title": "Comments",
+    "addComment": "Add Comment",
+    "comment": "Comment",
+    "replies": "Replies",
+    "reply": "Reply",
+    "delete": "Delete Comment",
+    "edit": "Edit Comment",
+    "noComments": "No comments yet",
+    "loadMore": "Load More Comments",
+    "characters": "characters",
+    "maxCharacters": "Maximum {max} characters allowed"
+  },
+  "reactions": {
+    "like": "Like",
+    "dislike": "Dislike",
+    "love": "Love",
+    "angry": "Angry",
+    "sad": "Sad"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "loginRequired": "Login required to perform this action",
+    "sessionExpired": "Your session has expired",
+    "invalidCredentials": "Invalid credentials"
+  },
+  "errors": {
+    "generic": "Something went wrong",
+    "networkError": "Network error occurred",
+    "serverError": "Server error occurred",
+    "notFound": "Resource not found",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden"
+  }
+}

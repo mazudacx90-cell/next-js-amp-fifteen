@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Sukses",
+    "back": "Kembali",
+    "noData": "Tidak ada data",
+    "confirm": "Konfirmasi",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "save": "Simpan"
+  },
+  "articles": {
+    "title": "Artikel",
+    "list": "Daftar Artikel",
+    "detail": "Detail Artikel",
+    "categories": "Kategori",
+    "readMore": "Baca Selengkapnya",
+    "author": "Penulis",
+    "publishedDate": "Tanggal Terbit",
+    "category": "Kategori",
+    "noArticles": "Tidak ada artikel",
+    "views": "Tampilan",
+    "backToArticles": "Kembali ke Artikel"
+  },
+  "comments": {
+    "title": "Komentar",
+    "addComment": "Tambah Komentar",
+    "comment": "Komentar",
+    "replies": "Balasan",
+    "reply": "Balas",
+    "delete": "Hapus Komentar",
+    "edit": "Edit Komentar",
+    "noComments": "Belum ada komentar",
+    "loadMore": "Muat Komentar Lainnya",
+    "characters": "karakter",
+    "maxCharacters": "Maksimal {max} karakter"
+  },
+  "reactions": {
+    "like": "Suka",
+    "dislike": "Tidak Suka",
+    "love": "Cinta",
+    "angry": "Marah",
+    "sad": "Sedih"
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "profile": "Profil",
+    "loginRequired": "Perlu masuk untuk melakukan aksi ini",
+    "sessionExpired": "Sesi Anda telah berakhir",
+    "invalidCredentials": "Kredensial tidak valid"
+  },
+  "errors": {
+    "generic": "Terjadi kesalahan",
+    "networkError": "Kesalahan jaringan",
+    "serverError": "Kesalahan server",
+    "notFound": "Resource tidak ditemukan",
+    "unauthorized": "Tidak sah",
+    "forbidden": "Terlarang"
+  }
+}
